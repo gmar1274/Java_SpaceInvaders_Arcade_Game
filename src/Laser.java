@@ -2,7 +2,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JLabel;
 /**
  * 
- * @author gabe
+ * @author gabe martinez
  *This class represents a laser object coming from the player. Just an encounter destroys the enemy ship
  */
 public class Laser extends JLabel {
